@@ -6,4 +6,4 @@ I use this with the following bundles.
 - [Apache Commons Lang 3.9](https://commons.apache.org/proper/commons-lang/)
 - [dbus-java-with-java-utils-osgi 3.0.2](https://github.com/s5uishida/dbus-java-with-java-utils-osgi)
 
-I would like to thank the author of this very useful bluez-dbus code, and everyone who has committed.
+I would like to thank the author of this very useful bluez-dbus code, and all the contributors.
