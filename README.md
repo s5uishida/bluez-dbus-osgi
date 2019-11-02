@@ -4,6 +4,6 @@ This repository contains the MANIFEST.MF file of **the Eclipse plug-in project**
 I use this with the following bundles.
 - [SLF4J 1.7.26](https://www.slf4j.org/)
 - [Apache Commons Lang 3.9](https://commons.apache.org/proper/commons-lang/)
-- [dbus-java-with-java-utils-osgi 3.0.2](https://github.com/s5uishida/dbus-java-with-java-utils-osgi)
+- [dbus-java-osgi 3.2.1-SNAPSHOT](https://github.com/hypfvieh/dbus-java)
 
 I would like to thank the author of this very useful bluez-dbus code, and all the contributors.
